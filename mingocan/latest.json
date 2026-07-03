@@ -1,39 +1,39 @@
 {
-  "version": "2.6.4",
+  "version": "2.6.5",
   "notes": "",
-  "pub_date": "2026-06-24T23:11:31.359Z",
+  "pub_date": "2026-07-03T03:42:46.701Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnRFWGxWZnRITUVkMGI4Y2VoU01BUVpUV2plckExSXkwMlMrbisvQy9zNURXdW8xQitrcDdWZzBuS3FNQytHK2J3Nk9ldE02cm0zUmNlUHBZSEJoY3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNDMzCWZpbGU6SVNDIE1pbmdvQ0FOLmFwcC50YXIuZ3oKUHkwT3doajN3QlRSWjdGR2QyREI4SzdxREExQVBMR2JSMG1VVmlSdGJKRUZjYW5ieXVDSnlVdnBOSUw1RXAyQk9Wb1g3U0FUeUJEOGY4V2lDK01lQUE9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnY0Z2RQMFBhSDZ0TzRwdDNSMzdEWW9EMy9ldHJaSDJRWUFseVZiQldhdmg5ZVQwNFNDSG93OUtRWDlKaytCRHlZTFlMdWZ5MUxXdTZ5LzNlYVZscGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ5OTk1CWZpbGU6SVNDIE1pbmdvQ0FOLmFwcC50YXIuZ3oKaSsvSW5NRGY0WWtvTnJFTHd4NHV5d3BvT25sSGdyaHZKWWJaRTlYRmhYN290SjF0c3lZSUx2SGpyUFFGQjMwOEZ6bzVhd0FTMnBaY3FFWDJSNlROQkE9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnRFWGxWZnRITUVkMGI4Y2VoU01BUVpUV2plckExSXkwMlMrbisvQy9zNURXdW8xQitrcDdWZzBuS3FNQytHK2J3Nk9ldE02cm0zUmNlUHBZSEJoY3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNDMzCWZpbGU6SVNDIE1pbmdvQ0FOLmFwcC50YXIuZ3oKUHkwT3doajN3QlRSWjdGR2QyREI4SzdxREExQVBMR2JSMG1VVmlSdGJKRUZjYW5ieXVDSnlVdnBOSUw1RXAyQk9Wb1g3U0FUeUJEOGY4V2lDK01lQUE9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnY0Z2RQMFBhSDZ0TzRwdDNSMzdEWW9EMy9ldHJaSDJRWUFseVZiQldhdmg5ZVQwNFNDSG93OUtRWDlKaytCRHlZTFlMdWZ5MUxXdTZ5LzNlYVZscGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ5OTk1CWZpbGU6SVNDIE1pbmdvQ0FOLmFwcC50YXIuZ3oKaSsvSW5NRGY0WWtvTnJFTHd4NHV5d3BvT25sSGdyaHZKWWJaRTlYRmhYN290SjF0c3lZSUx2SGpyUFFGQjMwOEZ6bzVhd0FTMnBaY3FFWDJSNlROQkE9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_aarch64.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdm9KemtsVzA4U1A4VWtUWFlTMThpbUg4eldSL1V3SjNIZkxFNHVabUhhMUZjMnNTNUlFdzN0dG1JQXkzRG42NUFGV3NNcEhYcDR5QlM4dGhybEowWWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNTk1CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi40X2FtZDY0LkFwcEltYWdlCml2ZjlTYVFrMHpYU29xeEVKdXh1ZldxOG96WGtnTWMrVFZkS29PYjQvYXdnZ2o2c1F6S3pYbFRob01weVUvMEhmNjBWRlMralJHL0FNbW01c1h5UURnPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_2.6.4_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdmg3bE8vSk91UDZwT3d6NlFXS1V5bHNVaHM4WmhvUW8rS0d5UUNTbnRWOGFNTnBlYjQ4OVl2aDZQTFNBcjdLZmVLbVJPeTdqSnBtMGh6My9Tb0FCaGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ5OTk2CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi41X2FtZDY0LkFwcEltYWdlCnBqd3NTcXNXazdXbzJBK21sZG5ZNVhiSmE0NUk3bzBKbGRWVkIzaFUwdEhPWlYxM3RLL1hXTWRVQ1BHc1RGSm5veHJQWkVIYXgvY25od3RaWnJGSUJRPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_2.6.5_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdm9KemtsVzA4U1A4VWtUWFlTMThpbUg4eldSL1V3SjNIZkxFNHVabUhhMUZjMnNTNUlFdzN0dG1JQXkzRG42NUFGV3NNcEhYcDR5QlM4dGhybEowWWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNTk1CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi40X2FtZDY0LkFwcEltYWdlCml2ZjlTYVFrMHpYU29xeEVKdXh1ZldxOG96WGtnTWMrVFZkS29PYjQvYXdnZ2o2c1F6S3pYbFRob01weVUvMEhmNjBWRlMralJHL0FNbW01c1h5UURnPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_2.6.4_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdmg3bE8vSk91UDZwT3d6NlFXS1V5bHNVaHM4WmhvUW8rS0d5UUNTbnRWOGFNTnBlYjQ4OVl2aDZQTFNBcjdLZmVLbVJPeTdqSnBtMGh6My9Tb0FCaGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ5OTk2CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi41X2FtZDY0LkFwcEltYWdlCnBqd3NTcXNXazdXbzJBK21sZG5ZNVhiSmE0NUk3bzBKbGRWVkIzaFUwdEhPWlYxM3RLL1hXTWRVQ1BHc1RGSm5veHJQWkVIYXgvY25od3RaWnJGSUJRPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_2.6.5_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnF6bTl2ZkZaNEhmd2s1dHdIMEZNLzh6aFhVZ1RyWFFNTjY4MytyUmp6bTZRZVJGWkJVbUYvTWoxb3B1Y1Z2Z1NjMDJpalFaaXoyZmRNVFE4dEYzQmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNTk1CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi40X2FtZDY0LmRlYgorRzVBTFIwSGZOVnl6TndzakZHeC9IWEdPUXd0M3c3aFA2SEpqQWwrMXpDYlRFZFUrT0g4Y2krWTl0bm0zZy9Sa1dyS0hEaVF4M3hxTDhyVUhuTDJEdz09Cg==",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_2.6.4_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnJ6RXMyYXZGTitaRERLSXdrOWRudlo1b2UweFBvYmpEMDFqelp1THRMZGRFaHNISkpqei8xaldHZHlaa0RpNjVYaHVqTVZ3QStYUlUreitGbDcvUWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ5OTk2CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi41X2FtZDY0LmRlYgpJanJRcVp5a1BLbzAxcGk5d0pSQUZJelZHYlE1VU00V01Cb3R2Njd4cEpsT3kzbFFxQm9aQ0p4UGszMmgwSjVkZlExbVFTUHlzem9XK2czWVBVa0JDdz09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_2.6.5_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdm5aNkNaZ01PNG03anpwdy9yTWpXTFI2cDMzWVg4bTgza3V3MnRuRFFRamphWGQwMDhaYTlEOW9KK1RSRVhvSXJwTC9qRnBMT0pVM2ZkdlRMVm12L2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNTk1CWZpbGU6SVNDIE1pbmdvQ0FOLTIuNi40LTEueDg2XzY0LnJwbQpjbmZTZVQ0RkVTbHZPcjMzUENSVTlEbHgvdnlHNHJDc2FJaEg3YUgvdngwVjN1YUJ3WGNNbVQ0N05qdk1LVGtTWWJzU05PT2VKcW5kNUh0RXYxNnVBQT09Cg==",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN-2.6.4-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdmttU2V5ZUR0aWkyazNaODBQOFBtalZnbU5vaU1wMVBWYXdGK1BacmZzbGp3VUhHdDFDNFdHKy9GZUhLSFdwNDNPUG04OUNzV0g2UUgxNTUrd0xjd2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDQ5OTk2CWZpbGU6SVNDIE1pbmdvQ0FOLTIuNi41LTEueDg2XzY0LnJwbQpFV2VuRWhHcUtGVzRNKzA2aUtUa1lQQTNORzJwZkhsdHJuNmFQR0RhalFoWk9QaUNXbG94bkRGMUtFSTN1RXB0NEY2bExoQVRrbEdTQlBHMHRYYStEZz09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN-2.6.5-1.x86_64.rpm"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdmxQTXV5Z0w1NjlnZEZJdmdxeGdLSEpFbEF2cnhGODdGNDk1MGM5K1pkb09TQlRnYTB0aXRIRG1xaE1LRitmUy9PbVJwVCt1VTBsd1E5bFo5Y3JiaUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNjg5CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi40X3g2NC1zZXR1cC5leGUKRm9kT2d1L1Uwc29TRndDL2t2YStjbVVITjZUTTBhVERKcjBJNE0zaG9jNDVvN3FhN1g5MUMxdUs4ejkyRXp6c1Q2aDJqVE1McEpQTWNjMjY3end0Q0E9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_2.6.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnBhRndYK0xBTXRkRk9Kb2hWM1d2cFYrV1lQekZUbm5Cb1I3empBUktuWlJ1NFZja0Nqb3R2VStKdEp4NVNmdDlNbFVqUEJ1dTlnY0NvOEFSTU01WXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDUwMTY1CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi41X3g2NC1zZXR1cC5leGUKUkdxdGYya01MQkswaHFqdGpBM0pXejBPelYzVEcwR3poMFBhWkVzaGF1YXNKQ3UwRnYrdFBjOGxadSsvVzFLNVdFaDhTdnkwUlU3bDVwZm1iYXdRQ3c9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_2.6.5_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdmxQTXV5Z0w1NjlnZEZJdmdxeGdLSEpFbEF2cnhGODdGNDk1MGM5K1pkb09TQlRnYTB0aXRIRG1xaE1LRitmUy9PbVJwVCt1VTBsd1E5bFo5Y3JiaUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMzQyNjg5CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi40X3g2NC1zZXR1cC5leGUKRm9kT2d1L1Uwc29TRndDL2t2YStjbVVITjZUTTBhVERKcjBJNE0zaG9jNDVvN3FhN1g5MUMxdUs4ejkyRXp6c1Q2aDJqVE1McEpQTWNjMjY3end0Q0E9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.4/ISC.MingoCAN_2.6.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRWHo1TnBIL1lUdnBhRndYK0xBTXRkRk9Kb2hWM1d2cFYrV1lQekZUbm5Cb1I3empBUktuWlJ1NFZja0Nqb3R2VStKdEp4NVNmdDlNbFVqUEJ1dTlnY0NvOEFSTU01WXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMDUwMTY1CWZpbGU6SVNDIE1pbmdvQ0FOXzIuNi41X3g2NC1zZXR1cC5leGUKUkdxdGYya01MQkswaHFqdGpBM0pXejBPelYzVEcwR3poMFBhWkVzaGF1YXNKQ3UwRnYrdFBjOGxadSsvVzFLNVdFaDhTdnkwUlU3bDVwZm1iYXdRQ3c9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingocan-v2.6.5/ISC.MingoCAN_2.6.5_x64-setup.exe"
     }
   }
 }
