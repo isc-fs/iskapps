@@ -1,26 +1,26 @@
 {
-  "version": "1.6.0",
-  "notes": "ISC Wario Charger 1.6.0",
-  "pub_date": "2026-07-21T13:46:42Z",
+  "version": "1.6.1",
+  "notes": "ISC Wario Charger 1.6.1",
+  "pub_date": "2026-07-23T03:05:10Z",
   "platforms": {
     "macos-aarch64": {
-      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.0/wario-charger_1.6.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdVFVcU5xdkJPOUtyMDZEbm9VRFhaeGxXbDJFakU3OGJrcHVNcUQ3NkpLY3ZvekgzZUlycytGUU1HVXZlbVhzS25KRFFDcHFGbXZYTStGUmNVMWhVSWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQxMTExCWZpbGU6SVNDIFdhcmlvIENoYXJnZXIuYXBwLnRhci5negpia1pLc1JOVlZLSnVrZDMzUHAxWndHdUhaT1FJUUR4NERQRDBseTNib3FyUEZVZk05QVpuNmpYMWJRTWV6YlVsc0FFcXdZbTBvM1Fqam5ZMGdBQkRCQT09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.1/wario-charger_1.6.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdWZKK1VwSDFCU1J2YkppYXBTZ25mZTk2Nzk0eW5TVkpVdjhtMFNSR3NiV0srdTVydWc3akFUYnptRGs3cm00VFZpZlBjbElXa1VOSERmanlLdkhKWVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc1NDYyCWZpbGU6SVNDIFdhcmlvIENoYXJnZXIuYXBwLnRhci5negpRbjZHZFpvejRuTkhGcG0wZytWZ3kwaytIcDZhWHVjU3B3Z1czMWc2TURLbHVhdnRxR2xkOEFpSHMxdWlJeWxFMkozUFNWb3JiWnJJZEs0N3hJTUtEZz09Cg==",
       "format": "app"
     },
     "macos-x86_64": {
-      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.0/wario-charger_1.6.0_universal.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdVFVcU5xdkJPOUtyMDZEbm9VRFhaeGxXbDJFakU3OGJrcHVNcUQ3NkpLY3ZvekgzZUlycytGUU1HVXZlbVhzS25KRFFDcHFGbXZYTStGUmNVMWhVSWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQxMTExCWZpbGU6SVNDIFdhcmlvIENoYXJnZXIuYXBwLnRhci5negpia1pLc1JOVlZLSnVrZDMzUHAxWndHdUhaT1FJUUR4NERQRDBseTNib3FyUEZVZk05QVpuNmpYMWJRTWV6YlVsc0FFcXdZbTBvM1Fqam5ZMGdBQkRCQT09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.1/wario-charger_1.6.1_universal.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdWZKK1VwSDFCU1J2YkppYXBTZ25mZTk2Nzk0eW5TVkpVdjhtMFNSR3NiV0srdTVydWc3akFUYnptRGs3cm00VFZpZlBjbElXa1VOSERmanlLdkhKWVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc1NDYyCWZpbGU6SVNDIFdhcmlvIENoYXJnZXIuYXBwLnRhci5negpRbjZHZFpvejRuTkhGcG0wZytWZ3kwaytIcDZhWHVjU3B3Z1czMWc2TURLbHVhdnRxR2xkOEFpSHMxdWlJeWxFMkozUFNWb3JiWnJJZEs0N3hJTUtEZz09Cg==",
       "format": "app"
     },
     "linux-x86_64": {
-      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.0/wario-charger_1.6.0_x86_64.AppImage",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdVFjY2JtQWV2TUlKMXpvL2g0d3Bxc2JmTDZaaWJRbUNHK2ZpbG1Yd2Q3THdROHBUQ09iN3BkeldnQ2JGRm1rSGJzQ0p4cDRqakt1c3lqQTdJcEdMQlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQxNDMzCWZpbGU6d2FyaW8tY2hhcmdlcl8xLjYuMF94ODZfNjQuQXBwSW1hZ2UKN0ZsZzN1ZGdRMU1oeUEwRGRZMEdUaDhaYW11bDFFdUNwdUVjNVMrQmtwR3huRXFQMGtZNlRuNG5XTUlKUXdROE9QSmNBbDIwSmZCMjJTK3h1R0piRFE9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.1/wario-charger_1.6.1_x86_64.AppImage",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdVlVd0JOMk9Nb0QzMFZNRWthL2RJNTN4S3dvNHVnMTJZbmE2Z09YR3FwMURXek9JVUNNeVhxSERzMzFPWmxpTVRBa3NxNUY4Q1NxOVBvWFRpNDFONkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc1ODg3CWZpbGU6d2FyaW8tY2hhcmdlcl8xLjYuMV94ODZfNjQuQXBwSW1hZ2UKblNWaVlYejNmOFdudEliRzhNbTNLblM2aStHRVpUc3BDbE1nelloWUgyWDlZbTUwMlc1L09jVmFiNzBLeUs4KzdxcXBIQmJ1T20wYkxUMkl5eEVORHc9PQo=",
       "format": "appimage"
     },
     "windows-x86_64": {
-      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.0/wario-charger_1.6.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdWNGR2U0OGNFZXZITzNRTllqbTFMcDM0R0h4K1ZBNEN5b0tPeEdiT3VMQXJFWFFtVnVyaytQNjRBVEdXK1dIOFB3bGhVeWV5dUNjTGFaa3crc0pXSmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjQxNTg0CWZpbGU6d2FyaW8tY2hhcmdlcl8xLjYuMF94NjQtc2V0dXAuZXhlCjBnSHdId3VMQlAzNlZBNnFaTjMwb0x2Z0RKSkQ5ZGhLRS9lMlgwQWc5YnBNRDBjMWovTUVKRGg0WjFtYmpnS0w3a1FhU0dvN2Rsb0pKWitxUk8xc0JBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/wario-charger-v1.6.1/wario-charger_1.6.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGNhcmdvLXBhY2thZ2VyIHNlY3JldCBrZXkKUlVTbktLMzd3bFFkdWJiQ0w2ckJCdEhpQXJMMWRYWTlOTGpUNGorZHhxYmtIeGZPSitaT1YrRW1TZGZpTFVvbktWNUFpb1pqcytzVS9iMlNvcHNJV0xQREVuVVlDb0R1aXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Nzc1ODUyCWZpbGU6d2FyaW8tY2hhcmdlcl8xLjYuMV94NjQtc2V0dXAuZXhlCnpxZkxaSVQxSTF2V1dGVEpPa3FDTWFVdEpqbTU5MFRPbUh2aFNLenRMUXlJbDdROVl4ZklRNG54eitxQ2I0QWtVUlVwajJMMlp4bHdib3ZVallVcEJ3PT0K",
       "format": "nsis"
     }
   }
