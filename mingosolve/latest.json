@@ -1,47 +1,47 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "notes": "",
-  "pub_date": "2026-10-05T17:01:10.863Z",
+  "pub_date": "2026-10-07T23:21:50.576Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkg1VjhFNHAvZVNmdXE5T2xUZjEwOVJMdEdYcFhxODlIVXNlQzFFdTJ2eThLdUpoWWttclV2Zzh3STNVUXFaNmRTSjZrbE5NUW1mUlpnd2drK1FvU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjEzCWZpbGU6SVNDIE1pbmdvU29sdmVfMS4xLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjEuMApWd3lGNFZFSEgza2J6TmdsVWp0aDRiaDdlMUNZL1VsS3lGTUlvc3NYRkJpRUFkdHg3NVQ4U2NuZGRlWFo2WFhMaE9CT2xWWVorZk5Xb1JvVlBHN2JBZz09Cg==",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_1.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRklKcFpoWWhJcTdMNTZHc3RYM1ZtQ0JnWWFzNEE4OXB2OEFENUZmcnZjcWl1YThrNjVhOFVPc29HU0MwajFxZUIvSXlNWVdTM2gzdjNKTjhNUVk1bEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE0OTA2CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4yLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjIuMAp4ZTZKenFpU09FYjhTbGNLVlFyYkg4ZXRUa0YzYUhXa0NrTkR2R1IrSjEzS01DMDZIY2ovYWs2enkrb3kyTk5tOFlHQ0w3c2NHVDRGMkJRaWpNZWJBdz09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_1.2.0_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkg1VjhFNHAvZVNmdXE5T2xUZjEwOVJMdEdYcFhxODlIVXNlQzFFdTJ2eThLdUpoWWttclV2Zzh3STNVUXFaNmRTSjZrbE5NUW1mUlpnd2drK1FvU2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjEzCWZpbGU6SVNDIE1pbmdvU29sdmVfMS4xLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjEuMApWd3lGNFZFSEgza2J6TmdsVWp0aDRiaDdlMUNZL1VsS3lGTUlvc3NYRkJpRUFkdHg3NVQ4U2NuZGRlWFo2WFhMaE9CT2xWWVorZk5Xb1JvVlBHN2JBZz09Cg==",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_1.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRklKcFpoWWhJcTdMNTZHc3RYM1ZtQ0JnWWFzNEE4OXB2OEFENUZmcnZjcWl1YThrNjVhOFVPc29HU0MwajFxZUIvSXlNWVdTM2gzdjNKTjhNUVk1bEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE0OTA2CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4yLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjoxLjIuMAp4ZTZKenFpU09FYjhTbGNLVlFyYkg4ZXRUa0YzYUhXa0NrTkR2R1IrSjEzS01DMDZIY2ovYWs2enkrb3kyTk5tOFlHQ0w3c2NHVDRGMkJRaWpNZWJBdz09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_1.2.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkZTT2I3T21UU1k1MlQwNlRrc1IzOTJLMDJKRmVFTGJyTVJ2Y0FMcVNGcytxVm8xY1BvYncvK2s2VTdFTDVYdnZybjZkdnpYaEIrNFpERFhsQzdqdkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjEzCWZpbGU6SVNDIE1pbmdvU29sdmVfMS4xLjBfYW1kNjQuZGViCXZlcnNpb246MS4xLjAKemsvMTZSSWJKbFE1Nld5ZnFsU2J4RjZWR0tsRHFZTEtsSkhRNnRpYXhIZ1dMTUJrS1l1cFJITTA3VkE5bVZMZjcxTDkrWlpubkF3dmpnN3F3TVJkQ2c9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_1.1.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkM5b2NkRnBHa2RFNHhyN1JBRElTcWtiQmllRmRnLzNwaWRLTWZDTldXblBYUVJqY0F4WVR0TERYa0ZLaStyeHFRWjVZVC9xK2IrU2NlMmZhUGdhRUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE0OTA2CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4yLjBfYW1kNjQuZGViCXZlcnNpb246MS4yLjAKa1VHWjVsNjNVSnR0L3ZDVWhLTFJGekNmN1ltSzdYM3pvTmdoRm1pQzZBQUJ5MFY4VHF1QW5zSGZDMHFDdkZiUmd4Z3lvZVY5UlZuZHovN0o4Tkt4Q1E9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_1.2.0_amd64.deb"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkRicEVOMnFCYUMxWjQ5OEdsMzQ5bm9PS2V4d3EwVlJMdnc5andlWlFOL2RCbHRMdWkxNENNVG5rWkhqcGVOSjdnTnVnZFNUUGNPTUZudkowN1ZuSUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjEzCWZpbGU6SVNDIE1pbmdvU29sdmUtMS4xLjAtMS54ODZfNjQucnBtCXZlcnNpb246MS4xLjAKdzRmN0swNzU3Q1NjWkRlUTVZbVcwMlRwQlJIRWt6K29sSHNsa3RmNUF4ejl1RUh2Ym91aS9zY2loRTZJYjdsdGJGTHRKVjdiQnJVVU8vMzFEVUt3RFE9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve-1.1.0-1.x86_64.rpm"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRks0cXp4Qm4zNjlWeWgwc2NsYjYraUFoVHpkWTVVcXVWVDhKT3lENCs5eTRFVlc5NFplV01ZNkkrMGpYVldRVkE5VkxaS3diS3NKUVFZRi9UVEwwNFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE0OTA2CWZpbGU6SVNDIE1pbmdvU29sdmUtMS4yLjAtMS54ODZfNjQucnBtCXZlcnNpb246MS4yLjAKWC8zNnE4U055R2U1YmlmV3RoSFRBcHJ3WFk5Y2RJME5WbjhSaVlwMW0zODRjZTVOSnM0eTdMUFI3Q2ZNckYyclkzYUQrMTRBWDJDa3hHSkRzZmdxQmc9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve-1.2.0-1.x86_64.rpm"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkd6TTBMUUJzazFDbktPY3d2YXlsN3JUUFRYbU4wWktNalFOdnByNDRhRndQclJEWXNiazIwTFMyalRSQUk1NWxPWmUySUlyZ0I5cExsS2J5U3NxT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjMyCWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCk8zaUk4S1Y4RS9KL2VmKzZyWEZBK3BiUitLdlU1TVdleFFmUWFRNVV6MHFGWGR6aVBzMGlGc3pMRGFyMnllK3dKZy9RQnU4RUw5aFVwd2Z4UzVrbERBPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRk14WktlMkVkK0VLQm9ZZy9CVzRTWWliTEJUK1VodWZWRG5VaHFVMTA0a0hiZy9ybHJOV1NGSTF3UVBzcEthYzd4SGs0cFFXVHRXOFBXcVJVTWJNSVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MDU2CWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCnRqZ1lSSTQ0V0RaTDZKT0l2L3gvTzAxM01yaTBBWlovSjMvQSt4ZWNuYWpvRXBYMHZUWW9EWlJtTllVVzNtVjEzL01Hc2NpaHZmbjFDRkIzQi9nL0JBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_universal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkd6TTBMUUJzazFDbktPY3d2YXlsN3JUUFRYbU4wWktNalFOdnByNDRhRndQclJEWXNiazIwTFMyalRSQUk1NWxPWmUySUlyZ0I5cExsS2J5U3NxT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjMyCWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCk8zaUk4S1Y4RS9KL2VmKzZyWEZBK3BiUitLdlU1TVdleFFmUWFRNVV6MHFGWGR6aVBzMGlGc3pMRGFyMnllK3dKZy9RQnU4RUw5aFVwd2Z4UzVrbERBPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRk14WktlMkVkK0VLQm9ZZy9CVzRTWWliTEJUK1VodWZWRG5VaHFVMTA0a0hiZy9ybHJOV1NGSTF3UVBzcEthYzd4SGs0cFFXVHRXOFBXcVJVTWJNSVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MDU2CWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCnRqZ1lSSTQ0V0RaTDZKT0l2L3gvTzAxM01yaTBBWlovSjMvQSt4ZWNuYWpvRXBYMHZUWW9EWlJtTllVVzNtVjEzL01Hc2NpaHZmbjFDRkIzQi9nL0JBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_universal.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkd6TTBMUUJzazFDbktPY3d2YXlsN3JUUFRYbU4wWktNalFOdnByNDRhRndQclJEWXNiazIwTFMyalRSQUk1NWxPWmUySUlyZ0I5cExsS2J5U3NxT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjMyCWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCk8zaUk4S1Y4RS9KL2VmKzZyWEZBK3BiUitLdlU1TVdleFFmUWFRNVV6MHFGWGR6aVBzMGlGc3pMRGFyMnllK3dKZy9RQnU4RUw5aFVwd2Z4UzVrbERBPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRk14WktlMkVkK0VLQm9ZZy9CVzRTWWliTEJUK1VodWZWRG5VaHFVMTA0a0hiZy9ybHJOV1NGSTF3UVBzcEthYzd4SGs0cFFXVHRXOFBXcVJVTWJNSVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MDU2CWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCnRqZ1lSSTQ0V0RaTDZKT0l2L3gvTzAxM01yaTBBWlovSjMvQSt4ZWNuYWpvRXBYMHZUWW9EWlJtTllVVzNtVjEzL01Hc2NpaHZmbjFDRkIzQi9nL0JBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_universal.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkd6TTBMUUJzazFDbktPY3d2YXlsN3JUUFRYbU4wWktNalFOdnByNDRhRndQclJEWXNiazIwTFMyalRSQUk1NWxPWmUySUlyZ0I5cExsS2J5U3NxT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjMyCWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMS4wCk8zaUk4S1Y4RS9KL2VmKzZyWEZBK3BiUitLdlU1TVdleFFmUWFRNVV6MHFGWGR6aVBzMGlGc3pMRGFyMnllK3dKZy9RQnU4RUw5aFVwd2Z4UzVrbERBPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_universal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRk14WktlMkVkK0VLQm9ZZy9CVzRTWWliTEJUK1VodWZWRG5VaHFVMTA0a0hiZy9ybHJOV1NGSTF3UVBzcEthYzd4SGs0cFFXVHRXOFBXcVJVTWJNSVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MDU2CWZpbGU6SVNDIE1pbmdvU29sdmUuYXBwLnRhci5negl2ZXJzaW9uOjEuMi4wCnRqZ1lSSTQ0V0RaTDZKT0l2L3gvTzAxM01yaTBBWlovSjMvQSt4ZWNuYWpvRXBYMHZUWW9EWlJtTllVVzNtVjEzL01Hc2NpaHZmbjFDRkIzQi9nL0JBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_universal.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRlBVekdaUTRQbUQ2Mi93Z0tnKy90akpQN0tpZXY0clIwRklhbEs4RENsZkl0K2I0SXpQSXQ1NTBvY2NuSGFyYTFJRVJ0Nm1xWnJDdGgvVENSYjB4cndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjY4CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCnJtYk1sQ2VDVkFlb0hsNXdUREhBcC91Q2ZkMHlCMStuNWFsUDFvRjcyRFltaU9JSjVrakZLYnBVMjQ1amUrM1FNVzJKWGYrUHVzYmlzc2FtOXI3YUFBPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkc4bzdzZW83UUNvMFFTOUc4RTRpREJIUGIrM0JWZjNLZzV5ZnVoL2VkcTVWK3FLUDl5alFYYTJ6QWpYeTJhZ3ZwVE1CWnJKU0hkSzMvMy9OQ1BCdXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MzA3CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4wCnc1N1pKVyswR2pOTnRIcWdHdVdtbFVEYnRlYVJlMGQ3N2NlVWlnMWxMYzZ5SXFuRkZxa1F5Sm9Id1NmMWNEcVg4UEtDRGhkakVxSmNNMDZ5SVhIVURnPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_1.2.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRlBVekdaUTRQbUQ2Mi93Z0tnKy90akpQN0tpZXY0clIwRklhbEs4RENsZkl0K2I0SXpQSXQ1NTBvY2NuSGFyYTFJRVJ0Nm1xWnJDdGgvVENSYjB4cndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjE5NjY4CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMS4wCnJtYk1sQ2VDVkFlb0hsNXdUREhBcC91Q2ZkMHlCMStuNWFsUDFvRjcyRFltaU9JSjVrakZLYnBVMjQ1amUrM1FNVzJKWGYrUHVzYmlzc2FtOXI3YUFBPT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.1.0/ISC.MingoSolve_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRQ0MvcmNXWDloRkc4bzdzZW83UUNvMFFTOUc4RTRpREJIUGIrM0JWZjNLZzV5ZnVoL2VkcTVWK3FLUDl5alFYYTJ6QWpYeTJhZ3ZwVE1CWnJKU0hkSzMvMy9OQ1BCdXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDE1MzA3CWZpbGU6SVNDIE1pbmdvU29sdmVfMS4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjEuMi4wCnc1N1pKVyswR2pOTnRIcWdHdVdtbFVEYnRlYVJlMGQ3N2NlVWlnMWxMYzZ5SXFuRkZxa1F5Sm9Id1NmMWNEcVg4UEtDRGhkakVxSmNNMDZ5SVhIVURnPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/mingosolve-v1.2.0/ISC.MingoSolve_1.2.0_x64-setup.exe"
     }
   }
 }
