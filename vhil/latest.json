@@ -1,43 +1,43 @@
 {
-  "version": "0.1.0",
-  "notes": "ISC vHIL 0.1.0",
-  "pub_date": "2026-11-09T12:22:38Z",
+  "version": "0.2.0",
+  "notes": "ISC vHIL 0.2.0",
+  "pub_date": "2026-11-09T20:17:28Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdldlU2RDendFdTluNmJRcDdoS1cyYTdjalRMRmliaUJOcmliZVZBSktCZkY4NkJxQU5ZYmpETS9RcnRJenpDbnNybm4wbnVSUkUzTlFOdTZZZXBwTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2OTQwCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnh2QkMvZjgyYmhRQXg4NEY4YXN3WDloOXN6K3VRK2U2N3lXZDBSYzJsWDQrTG1SWlJXSitpMUg3WWVSaHFleFBGVEo1c1JwdjlyaCs3anFqMW9SWUN3PT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdmI4WDUrM3VwT3JWNE9aZXJud2NzTGhuS3JJSDhSMjF6QUNSTmJtMlIwWG1uTTBtbklTSXlvRlBweFlXWU9uakRsRXlVdk5kZmlIemJneExRRGJhdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1NDEyCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4wCmZJSU1NYTAzRE1MY05OUTZLOWlGc28xM2FmSFNGL3RGcmpSY1hNT1kxMUFUb2p5d1I0OUZEc0xmeFR4R3VSWW1lZ2o2L3RlbjVycFJPSkpkRXRvQkJBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdldlU2RDendFdTluNmJRcDdoS1cyYTdjalRMRmliaUJOcmliZVZBSktCZkY4NkJxQU5ZYmpETS9RcnRJenpDbnNybm4wbnVSUkUzTlFOdTZZZXBwTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2OTQwCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnh2QkMvZjgyYmhRQXg4NEY4YXN3WDloOXN6K3VRK2U2N3lXZDBSYzJsWDQrTG1SWlJXSitpMUg3WWVSaHFleFBGVEo1c1JwdjlyaCs3anFqMW9SWUN3PT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdmI4WDUrM3VwT3JWNE9aZXJud2NzTGhuS3JJSDhSMjF6QUNSTmJtMlIwWG1uTTBtbklTSXlvRlBweFlXWU9uakRsRXlVdk5kZmlIemJneExRRGJhdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1NDEyCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4wCmZJSU1NYTAzRE1MY05OUTZLOWlGc28xM2FmSFNGL3RGcmpSY1hNT1kxMUFUb2p5d1I0OUZEc0xmeFR4R3VSWW1lZ2o2L3RlbjVycFJPSkpkRXRvQkJBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdldlU2RDendFdTluNmJRcDdoS1cyYTdjalRMRmliaUJOcmliZVZBSktCZkY4NkJxQU5ZYmpETS9RcnRJenpDbnNybm4wbnVSUkUzTlFOdTZZZXBwTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2OTQwCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnh2QkMvZjgyYmhRQXg4NEY4YXN3WDloOXN6K3VRK2U2N3lXZDBSYzJsWDQrTG1SWlJXSitpMUg3WWVSaHFleFBGVEo1c1JwdjlyaCs3anFqMW9SWUN3PT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdmI4WDUrM3VwT3JWNE9aZXJud2NzTGhuS3JJSDhSMjF6QUNSTmJtMlIwWG1uTTBtbklTSXlvRlBweFlXWU9uakRsRXlVdk5kZmlIemJneExRRGJhdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1NDEyCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4wCmZJSU1NYTAzRE1MY05OUTZLOWlGc28xM2FmSFNGL3RGcmpSY1hNT1kxMUFUb2p5d1I0OUZEc0xmeFR4R3VSWW1lZ2o2L3RlbjVycFJPSkpkRXRvQkJBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL.app.tar.gz"
     },
     "darwin-x86_64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdldlU2RDendFdTluNmJRcDdoS1cyYTdjalRMRmliaUJOcmliZVZBSktCZkY4NkJxQU5ZYmpETS9RcnRJenpDbnNybm4wbnVSUkUzTlFOdTZZZXBwTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2OTQwCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4wCnh2QkMvZjgyYmhRQXg4NEY4YXN3WDloOXN6K3VRK2U2N3lXZDBSYzJsWDQrTG1SWlJXSitpMUg3WWVSaHFleFBGVEo1c1JwdjlyaCs3anFqMW9SWUN3PT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdmI4WDUrM3VwT3JWNE9aZXJud2NzTGhuS3JJSDhSMjF6QUNSTmJtMlIwWG1uTTBtbklTSXlvRlBweFlXWU9uakRsRXlVdk5kZmlIemJneExRRGJhdFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1NDEyCWZpbGU6SVNDIHZISUwuYXBwLnRhci5negl2ZXJzaW9uOjAuMi4wCmZJSU1NYTAzRE1MY05OUTZLOWlGc28xM2FmSFNGL3RGcmpSY1hNT1kxMUFUb2p5d1I0OUZEc0xmeFR4R3VSWW1lZ2o2L3RlbjVycFJPSkpkRXRvQkJBPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL.app.tar.gz"
     },
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlhBL29jeGE1alByUDUyZlFxQWcyT1lZZnB6NzY2dmNQeUw2eHdWY3NYZGZQcWhIN2xVU216OTYrM3lkRTRWWEl3K0NGMndsekF0T3pndmVGRlR4a3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2NzQ4CWZpbGU6SVNDIHZISUxfMC4xLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMApKa1p2bm9zcFRpVVJhQmRSb1pnU21VUVg2MUhDQkdNa1Z6bnhxZTFjL3VERkI2WEYrWS9FVUZoRm5wRVREckY1UHE5UFMwWTV6dVg0WUpSckJIVTRBUT09Cg==",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdllWY0tCM0tTZjNZZEFuMDJFZ0F2bTlLc0kyTDN1U0dYTkpKbklrdmpPV1BucHcwcENxMFdxUTVHVHFtUU5zSWNXQmNSTVVmanR5cGozZUw5TVY3clE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1MTY5CWZpbGU6SVNDIHZISUxfMC4yLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMApXV0NTcTYveGx5U0krK2JjOEhzbHM3WkhqeGl4WTNDNWw0M3I1N2JpZVlQWEY1MDQ5NEhETXBBVnNPeDNZK2UrTE55Q2pYZG9wZi8zU2drRDRRdkJCZz09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL_0.2.0_amd64.AppImage"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlhBL29jeGE1alByUDUyZlFxQWcyT1lZZnB6NzY2dmNQeUw2eHdWY3NYZGZQcWhIN2xVU216OTYrM3lkRTRWWEl3K0NGMndsekF0T3pndmVGRlR4a3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2NzQ4CWZpbGU6SVNDIHZISUxfMC4xLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjEuMApKa1p2bm9zcFRpVVJhQmRSb1pnU21VUVg2MUhDQkdNa1Z6bnhxZTFjL3VERkI2WEYrWS9FVUZoRm5wRVREckY1UHE5UFMwWTV6dVg0WUpSckJIVTRBUT09Cg==",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL_0.1.0_amd64.AppImage"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdllWY0tCM0tTZjNZZEFuMDJFZ0F2bTlLc0kyTDN1U0dYTkpKbklrdmpPV1BucHcwcENxMFdxUTVHVHFtUU5zSWNXQmNSTVVmanR5cGozZUw5TVY3clE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1MTY5CWZpbGU6SVNDIHZISUxfMC4yLjBfYW1kNjQuQXBwSW1hZ2UJdmVyc2lvbjowLjIuMApXV0NTcTYveGx5U0krK2JjOEhzbHM3WkhqeGl4WTNDNWw0M3I1N2JpZVlQWEY1MDQ5NEhETXBBVnNPeDNZK2UrTE55Q2pYZG9wZi8zU2drRDRRdkJCZz09Cg==",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL_0.2.0_amd64.AppImage"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlk2SjJXeDBFekl0dFFVU3VVckFySU1WaXFzL3JQYTUvNnViS2pQc05jaGE0WlM0ejQ2ajdLUy9ZbnQxaDNqdVhkU2xxQVhCVXBQbGVaSmY5RlhEQWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2NzQ4CWZpbGU6SVNDIHZISUxfMC4xLjBfYW1kNjQuZGViCXZlcnNpb246MC4xLjAKcDY4ZUZ1OXZwR3YyVGVSZXhKU1U3K2pGRnlTWk1PUnpvQVFuN29nVEkybGt5YVVJRDErZnJHTzFSZlk0bllEbzNsTUZHNmVyV3kwMlViUjBjeHI5RGc9PQo=",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL_0.1.0_amd64.deb"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdmQxdUhHbVJQN1ZSQThBQjY3WWFyRHQzQ0pMMngwV0VmV3Q4RUVleVRlSzhXRGNDSm5NRFNZL1ZVZ1d5VHdSeEoxbDVsckxKNi9qeUp4OGx0WlEwN1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1MTY5CWZpbGU6SVNDIHZISUxfMC4yLjBfYW1kNjQuZGViCXZlcnNpb246MC4yLjAKK2V5L2FLdnY0bnVZM0s2Zy90ME9TRHJPNFhIS09qakZOUnRoakwxM3Z3bDRvTDdKWFlGck1UNTBseDRPdldOdm56NllQRW4xU1FGeDBOTGdNbDcrQnc9PQo=",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL_0.2.0_amd64.deb"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlhSeWdIdmpRODBTVTVWekVRSWtub1M3TFlIQjM5am9GZStsa28wTmN4Qy9kOGs0WVlWTkx0U1NmaCtkSmJNOFdCNHhhd2U1N2w1R25kVkZHSzBGbWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2NjAzCWZpbGU6SVNDIHZISUxfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCkdsa3I3TW44WG9IM3FSckk5RHlSY2xvZDY5b0ZZVWxsdFVTcWJSeTJKNnZzazdkK2tvc1VjZjFpVS8zeVVsOEZiWElRNlJXYjlVak1UYk9EQmJqaUR3PT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlQzWWhWbFRBTzh0cGJrTk5vOGVtdk92aU53THBYYTFaOE5YRE1rVnBZcmxiVyt4ekFCU0tOVXdTN0lSYVQvZXYzYnAzOXlVN3FZK3RiOVVyUWdjNVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1MTU0CWZpbGU6SVNDIHZISUxfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCi9SWTU0aWZORm9CTHVhYi94Y0Q0b3ZiT1JvWkxqWjBxN01Cam1IL2x0QVpzWno2dHRtaENZUmRTQUEydkF1dnpaNE5XVDdZOHdnZmlTUWVXaHhDd0RRPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL_0.2.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlhSeWdIdmpRODBTVTVWekVRSWtub1M3TFlIQjM5am9GZStsa28wTmN4Qy9kOGs0WVlWTkx0U1NmaCtkSmJNOFdCNHhhd2U1N2w1R25kVkZHSzBGbWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjI2NjAzCWZpbGU6SVNDIHZISUxfMC4xLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMS4wCkdsa3I3TW44WG9IM3FSckk5RHlSY2xvZDY5b0ZZVWxsdFVTcWJSeTJKNnZzazdkK2tvc1VjZjFpVS8zeVVsOEZiWElRNlJXYjlVak1UYk9EQmJqaUR3PT0K",
-      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.1.0/ISC.vHIL_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaUlsb21JNTNSdlQzWWhWbFRBTzh0cGJrTk5vOGVtdk92aU53THBYYTFaOE5YRE1rVnBZcmxiVyt4ekFCU0tOVXdTN0lSYVQvZXYzYnAzOXlVN3FZK3RiOVVyUWdjNVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjU1MTU0CWZpbGU6SVNDIHZISUxfMC4yLjBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4wCi9SWTU0aWZORm9CTHVhYi94Y0Q0b3ZiT1JvWkxqWjBxN01Cam1IL2x0QVpzWno2dHRtaENZUmRTQUEydkF1dnpaNE5XVDdZOHdnZmlTUWVXaHhDd0RRPT0K",
+      "url": "https://github.com/isc-fs/iskapps/releases/download/vhil-v0.2.0/ISC.vHIL_0.2.0_x64-setup.exe"
     }
   }
 }
