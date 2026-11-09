@@ -22,6 +22,7 @@ matching **its own** prefix.
 |-----|-----------|------------|
 | **ISC Wario Charger** | `wario-charger-v` | AMS pit display & charge controller (IFS08) |
 | **ISC MingoCAN** | `mingocan-v` | Flash, monitor & debug CAN on the team's STM32 ECUs (IFS08) |
+| **ISC vHIL** | `vhil-v` | The car's firmware on emulated boards, on your machine (IFS-vHIL) |
 
 ## Download
 
